@@ -12,7 +12,7 @@
 
 ## My Environment
 
-<p align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/macOS&color=9cf&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox/Google%20Chrome&color=informational&style=flat-square"/></p>
+<p align="center"><img src="https://img.shields.io/static/v1?label=OS&message=Windows/macOS&color=9cf&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Firefox/Google%20Chrome/Vivaldi&color=informational&style=flat-square"/></p>
 
 ## About My Repos
 
