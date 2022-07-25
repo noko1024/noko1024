@@ -1,7 +1,8 @@
 <p align="right">
-<a href="https://twitter.com/ynstg" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ynstg?logo=twitter&style=flat-square" alt="ynstg" />
-</a>
+    <a href="http://www.noko1024.net/link" target="blank">
+        <img src="./img/link.svg" />
+        Links
+    </a>
 </p>
 
 <h1 align="center">Hi, I'm noko1024</h1>
@@ -38,6 +39,3 @@ Unless otherwise stated, the license for my repository is MIT.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noko1024&theme=nord_dark&utcOffset=9)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noko1024&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noko1024&theme=nord_dark)
-
-## Links
-[www.noko1024.net/link](http://www.noko1024.net/link)
