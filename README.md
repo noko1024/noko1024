@@ -1,11 +1,11 @@
 <p align="right">
-    <a href="http://www.noko1024.net/link" target="blank">
+    <a href="https://noko1024.net/links" target="blank">
         <img src="./img/link.svg" />
         Links
     </a>
 </p>
 
-<h1 align="center">Hi, I'm noko1024</h1>
+<h1 align="center">Hi, I'm <a href="https://noko1024.net" target="blank"> noko1024 </a> </h1>
 
 
 ## My Environment
